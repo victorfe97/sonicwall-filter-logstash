@@ -10,5 +10,5 @@ This filter was developed to be used with logstash.
 <b>past the sonicwall-filter.conf into the logstash/config/</b>
 
 Use the <b>logstash</b> binary with the string <b>"-f"</b> to signal the configuration file that
-will be used.<n>
+will be used.<br>
 <b>./path/to/logstash/bin/logstash -f /path/to/logstash/config/sonicwall-filter.conf </b>
